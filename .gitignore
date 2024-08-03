@@ -1,7 +1,6 @@
 # dependencies
 /node_modules
-/config
-.gitignore
+/config/config.env
 
 # misc
 /backend/config/config.env
